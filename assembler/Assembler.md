@@ -1,6 +1,10 @@
 # Project Contribution
 
-I have added an assembler written in Python to this VHDL project. The assembler translates assembly language code into machine code, enhancing the functionality of the project. This addition streamlines the development process by automating the conversion of assembly instructions.
+I have added an assembler written in Python to this VHDL project. The assembler translates assembly language code into machine code, enhancing the functionality of the project. This addition streamlines the development process by automating the conversion of assembly instructions. 
+
+
+## The way to use assembler
+Write your program in program.kkt file, run main.py, and copy the content of ram.vhdl file to the ram.vhdl file of your CPU.
 
 
 ## Instruction Set
